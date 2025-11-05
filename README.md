@@ -8,6 +8,8 @@ Electricity demand is not uniform, it varies across regions, industries, and tim
 
 [U.S. Energy Information Administration (EIA) Open Data](https://www.eia.gov/opendata/browser/electricity)
 
+[Data Api Docs](https://www.eia.gov/opendata/documentation.php)
+
 ## Few Exploratory Questions
 
 1.  How does electricity usage vary by region, time of day, and season?
